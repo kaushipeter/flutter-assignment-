@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Amberelle",
+    "description": "A warm, inviting scent with notes of amber and vanilla.",
+    "price": 4500.00,
+    "image": "amberelle.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "Noir",
+    "description": "Deep and mysterious, featuring dark wood and spice.",
+    "price": 5200.00,
+    "image": "noir.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "name": "Fresh",
+    "description": "Crisp and clean, like a morning breeze.",
+    "price": 3800.00,
+    "image": "fresh.jpg",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "name": "Emberlace",
+    "description": "Smoky and sophisticated.",
+    "price": 4800.00,
+    "image": "emberlace.jpg",
+    "isFeatured": false
+  },
+  {
+    "id": 5,
+    "name": "Lollipop",
+    "description": "Sweet and playful for younger audiences.",
+    "price": 2500.00,
+    "image": "lollipop.jpg",
+    "isFeatured": false
+  }
+]
